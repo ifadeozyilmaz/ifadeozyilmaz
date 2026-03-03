@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İfade</h1>
 <h3 align="center">I'm a Business Intelligence Consultant.</h3>
 
-- 🔭 I’m currently working on **Data analysis and ETL projects using SQL and Power BI.**
+- 🔭 I’m currently working on **Data analysis and ETL projects using SQL, Python and Power BI.**
 
 - 🌱 I’m currently learning **ETL Processes, DAX, SQL and Power BI for Business Intelligence.**
 
